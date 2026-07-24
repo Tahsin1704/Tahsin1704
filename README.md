@@ -18,13 +18,7 @@
 
 ## 🌐 Connect with Me
 
-```html
-<p align="left">
-  <a href="https://www.linkedin.com/in/tahsin1710/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
-</p>
-```
+<p align="left"> <a href="https://www.linkedin.com/in/tahsin1710/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="45" /> </a> </p>
 
 
 📫 Let's connect and collaborate on exciting projects!
