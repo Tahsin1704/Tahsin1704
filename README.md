@@ -9,4 +9,4 @@
 📌 Open to Software Engineering and Machine Learning internship opportunities.
 🛠️ Programming Languages
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,mysql" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,microsoft sql server" /> </p>
