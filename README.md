@@ -18,10 +18,13 @@
 
 ## 🌐 Connect with Me
 
+```html
 <p align="left">
   <a href="https://www.linkedin.com/in/tahsin1710/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
+```
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+📫 Let's connect and collaborate on exciting projects!
