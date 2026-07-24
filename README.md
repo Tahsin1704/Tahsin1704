@@ -17,8 +17,6 @@
 </p>
 
 ## 🌐 Connect with Me
-
-💼 LinkedIn: https://www.linkedin.com/in/tahsin1710/
-
+🔗 LinkedIn: https://www.linkedin.com/in/tahsin1710/
 
 📫 Let's connect and collaborate on exciting projects!
