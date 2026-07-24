@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-* 🛠️ Passionate about building scalable full-stack web applications and intelligent machine learning solutions.
+* 🛠️ Building scalable full-stack web applications and intelligent machine learning solutions.
 * 💡 Interested in Full-Stack Development, Artificial Intelligence and  Machine Learning.
 * 📚 Continuously learning modern software development and advanced machine learning techniques.
 * 🎯 Focusing on building impactful software and AI-powered solutions to solve real-world problems.
