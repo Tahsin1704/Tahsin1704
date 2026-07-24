@@ -18,7 +18,14 @@
 </p>
 
 🌐 Connect with Me
-💼 LinkedIn: https://www.linkedin.com/in/tahsin1710/
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tahsin1710/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+</p>
+
 
 📫 Let's connect and collaborate on exciting projects!
 
