@@ -12,7 +12,7 @@
 ## 🛠️ Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,javascript" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
